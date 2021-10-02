@@ -20,6 +20,3 @@ let program = 0
 program = 0
 radio.setGroup(42)
 basic.showNumber(program)
-basic.forever(function () {
-	
-})
